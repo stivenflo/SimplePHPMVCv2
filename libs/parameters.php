@@ -13,9 +13,9 @@
  * @link http://url.com
  */
 $server = "127.0.0.1";
-$user = "demouser";
-$pswd = "carm3l1t4s";
-$database = "demoalgorith";
+$user = "stivenflo";
+$pswd = "qwerty";
+$database = "nw202003";
 $port = "3306";
 
 $emailHost = 'email-smtp.us-west-2.amazonaws.com';
@@ -23,7 +23,7 @@ $smtpUser = 'amazonwebuserkey';
 $smtpSecret = 'smtpscreteer';
 $smtpPort = "587";
 
-$host_server = 'http://localhost/mvc/';
+$host_server = 'http://http://localhost/nw/SimplePHPMVCv2/index.php';
 if (isset($_SERVER["SERVER_MVC"])) {
     $host_server = $_SERVER["SERVER_MVC"];
 }

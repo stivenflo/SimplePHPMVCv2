@@ -2,7 +2,7 @@
 
 function run(){
     $viewData = array(
-        "cuenta"=>"0318-193-01395",
+        "cuenta"=>"0318-1993-01395",
         "nombre"=>"Jorge Stephen Flores Oseguera",
         "correo"=>"stivenflo1993@gmail.com"
     );

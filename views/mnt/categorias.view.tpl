@@ -36,9 +36,9 @@
             {{catenom}}
           </td>
           <td>
-            <a href="index.php?page=categoria&mode=UPD&catecod={{catecod}}">Adicionar</a><br/>
+            <a href="index.php?page=categoria&mode=INS&catecod={{catecod}}">Adicionar</a><br/>
             <a href="index.php?page=categoria&mode=UPD&catecod={{catecod}}">Editar</a><br/>
-            <a href="index.php?page=categoria&mode=UPD&catecod={{catecod}}">Visualizar</a>
+            <a href="index.php?page=categoria&mode=DSP&catecod={{catecod}}">Visualizar</a>
           </td>
         </tr>
         {{endfor categorias}}
